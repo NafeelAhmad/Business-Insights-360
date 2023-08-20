@@ -1,5 +1,7 @@
 # Business-Insights-360
 The Business Insights 360 Project involves Different Views Like Sales View, Finance View, Marketing View, Supply Chain View, Executive View for the Different teams in the company So that they utilise the data and get the useful insights from it. It also helps the stakeholder to make data driven decision making.
+Video Presentation:
+https://youtu.be/21Zf0C5oyUs 
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 ➡ SQL
